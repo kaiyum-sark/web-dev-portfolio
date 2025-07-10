@@ -148,3 +148,27 @@
   padding: 30px;
   border-radius: 5px;
  }
+
+
+ /* Resume summary  */
+  .resume-column{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+  }
+
+  .resume hr{
+    margin:35px 5px;
+  }
+
+
+  .display{
+    display: flex;
+  }
+
+ .form-style{
+  height: 65px;
+  border-radius: 5px;
+  display: block;
+  width: 100%;
+ }
